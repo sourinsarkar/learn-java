@@ -1,13 +1,7 @@
-import java.util.Scanner;
-
 class HelloWorld {
     public static void main(String[] args) {
         byte num;
-        Scanner input = new Scanner(System.in);
-        int myInt = input.nextInt();
-        float myFloat = input.nextFloat();
-        double myDouble = input.nextDouble();
-        
+        num = 20;
         
         System.out.println("Hello World");
         System.out.println("-----------");
